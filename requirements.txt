@@ -8,6 +8,8 @@ filelock==3.6.0
 pipenv==2022.1.8
 platformdirs==2.5.1
 six==1.16.0
+psycopg2
+psycopg2-binary
 sqlparse==0.4.2
 urllib3==1.26.9
 virtualenv==20.13.4
